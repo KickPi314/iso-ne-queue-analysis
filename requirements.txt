@@ -1,0 +1,4 @@
+pandas==3.0.6
+matplotlib==3.11.2
+beautifulsoup4==4.15.0
+notebook==7.6.3
